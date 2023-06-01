@@ -21,3 +21,4 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine(ExtractSubstringFromALogMessage("1x 2 3w", "1","3"));
 Console.WriteLine(ExtractSubstringFromALogMessage("between one and two.", "one", "two"));
+Console.WriteLine(ExtractSubstringFromALogMessage("one and two.", "one", "two"));
