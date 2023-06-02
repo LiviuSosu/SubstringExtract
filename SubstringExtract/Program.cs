@@ -15,7 +15,7 @@
     return substring.TrimEnd();
 }
 
-
+//https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SubstringExtract.Tests
 {
-    internal class SubstringExtractTests
+    public class SubstringExtractTests
     {
     }
 }
