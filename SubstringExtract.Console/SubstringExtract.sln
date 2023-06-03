@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstringExtract", "SubstringExtract.csproj", "{656BA5F5-7C2A-4775-90AB-B824BB7E7908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstringExtract.Console", "SubstringExtract.Console.csproj", "{656BA5F5-7C2A-4775-90AB-B824BB7E7908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringExtract.Tests", "..\SubstringExtract.Tests\SubstringExtract.Tests.csproj", "{39D7790D-6AB8-4FAF-8357-38BB91291075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstringExtract.Tests", "..\SubstringExtract.Tests\SubstringExtract.Tests.csproj", "{39D7790D-6AB8-4FAF-8357-38BB91291075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

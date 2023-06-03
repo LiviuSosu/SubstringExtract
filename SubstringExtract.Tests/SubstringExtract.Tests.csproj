@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SubstringExtract\SubstringExtract.csproj" />
+    <ProjectReference Include="..\SubstringExtract\SubstringExtract.Console.csproj" />
   </ItemGroup>
 
 </Project>
